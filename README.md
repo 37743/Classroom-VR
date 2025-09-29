@@ -19,8 +19,10 @@
 
 An advanced VR education classroom featuring specialized AI tutors for different subjects. Experience personalized learning through immersive virtual reality with curriculum-aligned AI teachers who adapt to your learning style.
 
+## Demo Video:
+
 ## Features: (as of now)
-- Specialized AI teacher: Mr. Rashid (Biology)!
+- Specialized AI teacher in an Interactive VR environment: Mr. Rashid (Biology)!
 - RAG-powered curriculum accuracy for official secondary education standards!
 - Multi-intent detection: Q&A, explanations, summaries, exam prep, and more!
 - Optimized responses perfectly crafted for display and text-to-speech!
@@ -30,23 +32,14 @@ An advanced VR education classroom featuring specialized AI tutors for different
 ### Available VR Classrooms:
 
 #### - Mr. Rashed - Biology Expert (Our Mascot)
-- Egyptian 3rd secondary biology curriculum mastery.
+- Egyptian secondary senior biology curriculum mastery.
 - Specializes in cellular biology, genetics, human systems, and ecology.
 - Patient mentor who makes complex biological concepts accessible.
+- Available in **Free Questions** mode and **Quiz** mode!
 
-### Some Proposed Teachers:
-
-#### - Ms. Inas - Chemistry Specialist (To-be Developed)
-- Advanced chemistry curriculum coverage.
-- Interactive molecular modeling and reaction explanations.
-- Laboratory safety and experiment guidance.
-
-#### - Mr. Sheriff - Physics Master (Next in Line)
-- Comprehensive physics education from mechanics to quantum.
-- Visual demonstrations of complex physical phenomena.
-- Problem-solving strategies and animated mathematical applications.
-
-#### - You could also register as a teacher with us! Contact: [yousef.gomaa@ejust.edu.eg](mailto:yousef.gomaa@ejust.edu.eg)
+ #### NOTE:
+ - In the long term, we plan to include Ms. Inas, a Chemistry Specialist and Mr. Sheriff, a Physics Master as part of our program
+ - You could also register as a teacher with us! Contact: [yousef.gomaa@ejust.edu.eg](mailto:yousef.gomaa@ejust.edu.eg)
 
 ## Hardware Requirements:
 - Meta Quest 2/3/3S with ≥1 GB free storage.
@@ -67,6 +60,7 @@ An advanced VR education classroom featuring specialized AI tutors for different
 ### Development Build (optional)
 - Clone the repository (with Git LFS).
 - Import the project with the exact Unity version from ProjectSettings/ProjectVersion.txt (via Unity Hub).
+- - Unity packages/dependencies are included in Packages/packages.json 
 - Configure your build with the following: Android / Oculus XR / ARM64 / IL2CPP.
 - Launch the build using Playmode.
 
@@ -145,13 +139,16 @@ An advanced VR education classroom featuring specialized AI tutors for different
 
 </div>
 
+## Generative AI Usage Log
+- 
+
 ## Frequently Asked Questions (FAQ)
 
 - What makes Classroom VR teachers different from other AI tutors?
   - **ANSWER:** *Classroom VR teachers, for example Mr. Rashed, are specifically designed for their respective curriculum (e.g. Egyptian senior highschool year biology) with RAG-powered accuracy. Unlike generic AI models, it provides customized responses, remembers your learning context, and automatically detects what type of help you need (explanations, summaries, exam prep, etc.).*
 
 ## Technical Architecture:
-
+### RAG
 ### RAG System Components:
 - **FAISS Index**: Vector database for semantic search across curriculum content
 - **Sentence Transformers**: Multilingual E5-base model for embedding generation  
@@ -171,4 +168,3 @@ An advanced VR education classroom featuring specialized AI tutors for different
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
 
 ---
-
