@@ -5,7 +5,7 @@
 <a>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Webpage">
+      <source media="(prefers-color-scheme: dark)" srcset="Images\Webpage\banner-3.png">
       <img height="200px" src="Images\Webpage\banner-3.png">
     </picture>
   </p>
@@ -180,3 +180,4 @@ An advanced VR education classroom featuring specialized AI tutors for different
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
 
 ---
+
