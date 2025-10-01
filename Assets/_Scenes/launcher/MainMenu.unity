@@ -17306,7 +17306,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 0
+  m_Interactable: 1
   m_TargetGraphic: {fileID: 929807767}
   m_OnClick:
     m_PersistentCalls:
@@ -29504,7 +29504,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Changelog:
 
-    [9/29/2025] Released V 1.0 (Mr. Rashed)
+    [9/30/2025] Released V 1.0 (Mr. Rashed)
 
 '
   m_isRightToLeft: 0
