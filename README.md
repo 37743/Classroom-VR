@@ -94,69 +94,39 @@ An advanced VR education classroom featuring specialized AI tutors for different
 
 <div align="center">
 
-|  |
-| :-----------------------------------------------: |
-|              VR Classroom Login Menu              |
+| <img width="768" height="512" alt="Login Menu" src="Images/Webpage/1-login.png" /> |
+| :----------------------------------: |
+|              Login Menu              |
 
 </div>
 
-2. Choose your VR classroom and AI tutor.
+2. Connect to your chosen VR learning classroom.
 
 <div align="center">
 
-|  |
-| :--------------------------------------------------: |
-|                VR Classroom Selection                |
-
-</div>
-
-3. Connect to your chosen virtual learning environment.
-
-<div align="center">
-
-|  |
+| <img width="768" height="512" alt="Classroom Environment" src="Images/Webpage/2-environment.png" /> |
 | :--------------------------------------------: |
-|       Immersive VR Learning Environment       |
+|       Immersive VR Learning Environment        |
 
 </div>
 
-4. Interact with your AI tutor (Mr. Rashed shown).
+3. Interact & get personalized explanations from your AI teacher (Mr. Rashed shown).
 
 <div align="center">
 
-|  |
+| <img width="768" height="512" alt="FQ Scene" src="Images/Webpage/3-explanation.png" /> |
 | :-----------------------------------------------------------------: |
-|                    Interactive AI Tutor Session                    |
+|                    Personalized Learning Experience                 |
 
 </div>
 
-5. Get personalized explanations and curriculum content.
+4. Explore Quiz mode and challenge yourself.
 
 <div align="center">
 
-|  |
-| :---------------------------------------------: |
-|        Personalized Learning Experience        |
-
-</div>
-
-6. Practice with generated questions and exam preparation.
-
-<div align="center">
-
-|  |
-| :----------------------------------------: |
-|       Practice Questions & Exam Prep       |
-
-</div>
-
-7. Explore Quiz mode and challenge yourself.
-
-<div align="center">
-
-|  |
+| <img width="768" height="512" alt="Quiz Scene" src="Images/Webpage/4-quiz.png" /> |
 | :-----------------------------------------: |
-|                  Quiz mode                  |
+|                  Quiz Mode                  |
 
 </div>
 
@@ -207,9 +177,9 @@ An advanced VR education classroom featuring specialized AI tutors for different
 
 <div align="center">
   
-| ![hippo](https://scontent.fcai19-3.fna.fbcdn.net/v/t39.2365-6/64637900_622042114964562_89558726775668736_n.gif?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=N_enESG_aZ0Q7kNvwGRxTMP&_nc_oc=AdnOHaI6rDWte57AY218ZXxyGMZMX70xSMfkbliusTzNjDZIax6I9uqGq4B4mbFyCHU&_nc_zt=14&_nc_ht=scontent.fcai19-3.fna&_nc_gid=WdwVN9niYrUeS1SsvWBOWw&oh=00_Afbfim6ua9NDNfopm63dpdyV_y2fGPqOWCmDbKjjcJhoFQ&oe=68F72F40) |
+| <img width="512" height="768" alt="Teacher Lipsync" src="Images/Webpage/teacher-viseme-lipsync.gif" /> |
 | :----------------------------------------: |
-|       Animated Lipsync Example [(Source)]([https://arxiv.org/abs/2106.06103](https://developers.meta.com/horizon/documentation/unity/audio-ovrlipsync-unity/))     |
+|       Animated Lipsync Example      |
 
 </div>
 
@@ -434,4 +404,5 @@ Q10: 3
 - [@MarwanZaineldeen](https://github.com/MarwanZaineldeen) - **Marwan Tamer Hanafy Zaineldeen** - Project Lead & AI Engineering
 - [@37743](https://github.com/37743) - **Yousef Ibrahim Gomaa Mahmoud** - Unity Development & AI-VR Integration
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
+
 
