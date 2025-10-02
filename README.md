@@ -308,7 +308,7 @@ An advanced VR education classroom featuring specialized AI tutors for different
 </div>
 
   - **Quiz Mode:** While in this mode, which you are only able to join during specific times (queried through SQL database), the models generate 10 questions on a topic and with exam notes decided by the teacher and stored in the SQL database, which are answered via STT, the results are then stored in the SQL database.
-    - Prompt & Response Examples as taken from the Demonstration Video's logs: (Sent and received as Strings, as only the quiz topic is needed for this prompt)
+    - Prompt & Response Examples as taken from the Demonstration Video's logs: (Received as String)
 
 <div style="display:flex; justify-content:center; margin:1em 0;">
   <table style="border-collapse:collapse; border:1px solid #ddd; font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; width:80%; max-width:900px;">
@@ -404,6 +404,7 @@ Q10: 3
 - [@MarwanZaineldeen](https://github.com/MarwanZaineldeen) - **Marwan Tamer Hanafy Zaineldeen** - Project Lead & AI Engineering
 - [@37743](https://github.com/37743) - **Yousef Ibrahim Gomaa Mahmoud** - Unity Development & AI-VR Integration
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
+
 
 
 
