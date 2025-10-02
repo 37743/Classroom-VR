@@ -317,7 +317,7 @@ An advanced VR education classroom featuring specialized AI tutors for different
         <td style="border:1px solid #ddd; padding:8px; text-align:center; font-weight:bold;">Prompt</td>
       </tr>
       <tr>
-        <td style="border:1px solid #ddd; padding:8px; text-align:center;">Hormonal Coordination , Covers all of the lesson, 5 question easy 3 intermediate and 2 hard for clever students </td>
+        <td style="border:1px solid #ddd; padding:8px; text-align:center;"> {"title": "Hormonal Coordination", "notes": "Covers all of the lesson, 5 question easy 3 intermediate and 2 hard for clever students"} </td>
       </tr>
       <tr>
         <td style="border:1px solid #ddd; padding:8px; text-align:center; font-weight:bold;">Response</td>
@@ -404,6 +404,7 @@ Q10: 3
 - [@MarwanZaineldeen](https://github.com/MarwanZaineldeen) - **Marwan Tamer Hanafy Zaineldeen** - Project Lead & AI Engineering
 - [@37743](https://github.com/37743) - **Yousef Ibrahim Gomaa Mahmoud** - Unity Development & AI-VR Integration
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
+
 
 
 
