@@ -177,7 +177,7 @@ An advanced VR education classroom featuring specialized AI tutors for different
 
 <div align="center">
   
-| <img width="512" height="768" alt="Teacher Lipsync" src="Images/Webpage/teacher-viseme-lipsync.gif" /> |
+| <img width="256" height="256" alt="Teacher Lipsync" src="Images/Webpage/teacher-viseme-lipsync.gif" /> |
 | :----------------------------------------: |
 |       Animated Lipsync Example      |
 
@@ -404,6 +404,7 @@ Q10: 3
 - [@MarwanZaineldeen](https://github.com/MarwanZaineldeen) - **Marwan Tamer Hanafy Zaineldeen** - Project Lead & AI Engineering
 - [@37743](https://github.com/37743) - **Yousef Ibrahim Gomaa Mahmoud** - Unity Development & AI-VR Integration
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
+
 
 
 
