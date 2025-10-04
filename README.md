@@ -21,6 +21,12 @@ An advanced VR education classroom featuring specialized AI tutors for different
 
 ## Demo Video:
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1c1JwuJafOOO23neRa2apq8QuBloBz6jH/view">
+    <img src="Images/Webpage/drive-thumbnail.png" alt="Watch the demo" width="640">
+  </a>
+</p>
+
 ## Features: (as of now)
 
 - Specialized AI teacher in an Interactive VR environment: Mr. Rashid (Biology)!
@@ -404,6 +410,7 @@ Q10: 3
 - [@MarwanZaineldeen](https://github.com/MarwanZaineldeen) - **Marwan Tamer Hanafy Zaineldeen** - Project Lead & AI Engineering
 - [@37743](https://github.com/37743) - **Yousef Ibrahim Gomaa Mahmoud** - Unity Development & AI-VR Integration
 - [@MaiYasser03](https://github.com/MaiYasser03) - **Mai Yasser Ouf** - NLP Expert & Database System Administration
+
 
 
 
